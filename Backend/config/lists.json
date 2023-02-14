@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Adam Even",
+        "img": "https://image.shutterstock.com/image-vector/user-icon-260nw-523867123.jpg",
+        "age": "1994",
+        "genre": ["Christian"],
+        "gender":["Male"],
+        "contact": "123456789"
+    },
+    {
+        "name": "Aditya Sharma",
+        "img": "https://image.shutterstock.com/image-vector/user-icon-260nw-523867123.jpg",
+        "age": "1972",
+        "genre": ["Hindu"],
+        "gender":["Male"],
+        "contact": "123456789"
+    },
+    {
+        "name": "Abhishek Jain",
+        "img": "https://image.shutterstock.com/image-vector/user-icon-260nw-523867123.jpg",
+        "age": "2008",
+        "genre": [ "Jain"],
+        "gender":["Male"],
+        "contact": "123456789"
+    },
+    {
+        "name": "Devesh Shaw",
+        "img": "https://image.shutterstock.com/image-vector/user-icon-260nw-523867123.jpg",
+        "age": "1994",
+        "genre": [ "Hindu"],
+        "gender":["Male"],
+        "contact": "123456789"
+    },
+    {
+        "name": "Md Aftab",
+        "img": "https://image.shutterstock.com/image-vector/user-icon-260nw-523867123.jpg",
+        "age": "1994",
+        "genre": [ "Muslim"],
+        "gender":["Male"],
+        "contact": "123456789"
+    },
+    {
+        "name": "Navin Parveen",
+        "img": "https://image.shutterstock.com/image-vector/user-icon-260nw-523867123.jpg",
+        "age": "1999",
+        "genre": [ "Hindu"],
+        "gender":["Male"],
+        "contact": "123456789"
+    },
+    {
+        "name": "Mehroz Khan",
+        "img": "https://image.shutterstock.com/image-vector/user-icon-260nw-523867123.jpg",
+        "age": "1999",
+        "genre": [ "Muslim"],
+        "gender":["Female"],
+        "contact": "123456789"
+    },
+    {
+        "name": "Aarushi Singh",
+        "img": "https://image.shutterstock.com/image-vector/user-icon-260nw-523867123.jpg",
+        "age": "1990",
+        "genre": [ "Hindu"],
+        "gender":["Female"],
+        "contact": "123456789"
+    },
+    {
+        "name": "MehekPreet Kaur",
+        "img": "https://image.shutterstock.com/image-vector/user-icon-260nw-523867123.jpg",
+        "age": "2014",
+        "genre": [ "Sikh"],
+        "gender":["Female"],
+        "contact": "123456789"
+    },
+    {
+        "name": "Sonam Sharma",
+        "img": "https://image.shutterstock.com/image-vector/user-icon-260nw-523867123.jpg",
+        "age": "2014",
+        "genre": [ "Hindu"],
+        "gender":["Female"],
+        "contact": "123456789"
+    },
+    {
+        "name": "Pari Singh",
+        "img": "https://image.shutterstock.com/image-vector/user-icon-260nw-523867123.jpg",
+        "age": "2019",
+        "genre": [ "Hindu"],
+        "gender":["Female"],
+        "contact": "123456789"
+    },
+    {
+        "name": "Silvia Parveen",
+        "img": "https://image.shutterstock.com/image-vector/user-icon-260nw-523867123.jpg",
+        "age": "2018",
+        "genre": [ "Christian"],
+        "gender":["Female"],
+        "contact": "123456789"
+    },
+    {
+        "name": "Sana Khan",
+        "img": "https://image.shutterstock.com/image-vector/user-icon-260nw-523867123.jpg",
+        "age": "2017",
+        "genre": [ "Muslim"],
+        "gender":["Female"],
+        "contact": "123456789"
+    },
+    {
+        "name": "Aporva Jain",
+        "img": "https://image.shutterstock.com/image-vector/user-icon-260nw-523867123.jpg",
+        "age": "2016",
+        "genre": [ "Jain"],
+        "gender":["Female"],
+        "contact": "123456789"
+    }
+] 
